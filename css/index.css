@@ -24,6 +24,7 @@ header {
 
 .logo a {
     font-size: 22px;
+    border-bottom: none;
 }
 
 main {
