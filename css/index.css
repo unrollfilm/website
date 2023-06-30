@@ -10,9 +10,12 @@ a {
     border: 1px solid #000000;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 body {
     font-size: 16px;
     color: #000000;
+    font-family: 'Roboto', sans-serif;
 }
 
 header {
