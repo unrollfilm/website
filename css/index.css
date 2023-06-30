@@ -55,6 +55,7 @@ main {
 .photograph {
     border: 1px solid #EEEEEE;
     padding: 10px;
+    margin: 10px 0px;
 }
 
 .photograph img {
