@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+body {
+    font-size: 16px;
+    color: #000000;
+}
+
+header {
+    padding: 20px;
+}
+
+.logo a {
+    font-size: 22px;
+}
+
+main {
+    padding: 20px 20px 0px 20px;
+}
+
+.content {
+    padding: 0px 0px 10px 0px;
+}
+
+.content-title {
+    padding: 10px 0px;
+    font-size: 18px;
+}
+
+.content-about {
+    padding: 5px 0px;
+}
+
+.content-about p {
+    padding: 5px 0px;
+}
+
+.photographs {
+    padding: 10px 0px;
+}
+
+.photograph {
+    border: 1px solid #EEEEEE;
+    padding: 10px;
+}
+
+.photograph img {
+    width: 1024px;
+}
