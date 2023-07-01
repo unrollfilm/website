@@ -58,6 +58,10 @@ main {
     margin: 10px 0px;
 }
 
+.photograph-image {
+    padding: 10px;
+}
+
 .photograph-image img {
     width: 100%;
 }
@@ -65,5 +69,9 @@ main {
 .photograph-about {
     padding: 5px;
     display: flex;
+}
+
+.photograph-about a {
+    font-size: 16px;
     justify-content: space-around;
 }
